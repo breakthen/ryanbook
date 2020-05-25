@@ -1,10 +1,14 @@
-# Ryan文库
+
+# Ryan的文库
 
 ### Ryan的简历
 
-* [Ryan的简历](part1/README.md)
-    * [个人介绍](part1/README.md#writing)
-    * [工作经历](part1/README.md#gitbook)
-* [Ryan的书报馆](part2/README.md)
-    * [技术学习]](part2/README.md#feedback)
-    * [个人感悟](part2/README.md#tools)
+* [1. Ryan的简历](README.md)
+    * [1.1 个人介绍](SelfIntro.md)
+    * [1.2 工作经历](WorkExperience.md)
+
+### Ryan的书报馆
+
+* [2. Ryan的书报馆](README.md)
+    * [2.1 技术学习](README.md#feedback)
+    * [2.2 个人感悟](README.md#tools)
